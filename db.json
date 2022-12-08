@@ -1,9 +1,49 @@
 {
-    "todos": [
+  "todos": [
     {
-        "id": 1,
-        "name": "Kumar",
-        "info": "I am MR.Kumaar"
+      "name": "Kumar",
+      "info": "I am Mr. Kuma",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Akhtar",
+      "info": "I am Mr. Akhtar"
+    },
+    {
+      "id": 3,
+      "name": "Saleem",
+      "info": "I am Mr. Saleem"
+    },
+    {
+      "id": 4,
+      "name": "Aslam",
+      "info": "I am Mr. Aslam"
+    },
+    {
+      "id": 5,
+      "name": "Arslan",
+      "info": "I am Mr. Arslan"
+    },
+    {
+      "name": "name",
+      "info": "description",
+      "id": 9
+    },
+    {
+      "name": "dummy name",
+      "info": "dumy description is everythinghahahhha",
+      "id": 10
+    },
+    {
+      "name": "dum",
+      "info": "descrionm kjh",
+      "id": 11
+    },
+    {
+      "name": "hi",
+      "info": "jsjs",
+      "id": 12
     }
-]
+  ]
 }
